@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/tmp/vim-go25c71230464b916f9f0575e92c060a9790ff4c49da60657af516b01406d6e747'
+let g:netrw_dirhist_8='/home/mgajin/go/src/gitlab.com/constel/go/common/pkg/log'
+let g:netrw_dirhist_7='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api/pkg'
+let g:netrw_dirhist_6='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api'
+let g:netrw_dirhist_5='/home/mgajin/.config/alacritty'
+let g:netrw_dirhist_4='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api/pkg/auth'
+let g:netrw_dirhist_3='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api/pkg'
+let g:netrw_dirhist_2='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api'
+let g:netrw_dirhist_1='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api/pkg/api'
+let g:netrw_dirhist_0='/home/mgajin/go/src/gitlab.com/linkedape/accounts/accounts-api/pkg'

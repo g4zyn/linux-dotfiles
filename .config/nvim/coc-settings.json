@@ -1,0 +1,32 @@
+{
+	"snippets.priority": 1000,
+	"diagnostic.displayByAle": true,
+	"coc.preferences.previewAutoClose": true,
+	"coc.preferences.formatOnSaveFiletypes": ["python"],
+	"coc.preferences.colorSupport": true,
+	"coc.preferences.formatOnType": true,
+	"coc.preferences.enableFloatHighlight": true,
+
+	"suggest.acceptSuggestionOnCommitCharacter": true,
+	"suggest.minTriggerInputLength": 1,
+	"suggest.snippetIndicator": " ►",
+	"suggest.floatEnable": true,
+	"suggest.detailField":"abbr",
+	"suggest.enablePreview": true,
+	"suggest.echodocSupport": true,
+
+	"yaml.format.enable": true,
+
+	"languageserver": {
+		"golang": {
+			"command": "gopls",
+			"args": ["-remote=auto"],
+			"rootPatterns": ["go.mod", ".git"],
+			"filetypes": ["go"],
+			"initializationOptions": {
+				"usePlaceholders": true,
+				"allowModfileModifications": true
+			}
+		}
+	}
+}

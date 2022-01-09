@@ -1,0 +1,12 @@
+/*
+!.gitignore
+
+!.config/
+.config/*
+!.config/i3
+!.config/alacritty
+!.config/polybar
+!.config/nvim
+!.config/rofi
+!.config/bat
+
